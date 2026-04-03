@@ -5,7 +5,7 @@ I love algorithms — and surprisingly, I don’t love coffee! ☕🚫
 <br>
 If you’d like to check out my progress in practicing algorithms, feel free to drop by here: [LeetCode](https://leetcode.com/GGalya/)
 
-🛠️ I’m currently working on my bachelor's thesis and thinking about improving some of my old projects <br>🌱 Learning how to create adaptive learning courses and exploring rRAPTOR
+🛠️ I’m currently working on my bachelor's thesis and thinking about improving some of my old projects <br>🌱 Learning how to create adaptive learning courses
 
 ## 🌐 Socials:
 
