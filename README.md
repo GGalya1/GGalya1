@@ -15,7 +15,7 @@ If you’d like to check out my progress in practicing algorithms, feel free to 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats: -->
 
 <!-- <p align="center"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=GGalya1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />  -->
