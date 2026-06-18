@@ -1,11 +1,10 @@
 # About Me:
 
-Final-semester Computer Science student at TU Darmstadt. I’ve worked as a tutor for the modules _Functional and Object-Oriented Programming Concepts_ and _Computer Architecture_.  
-I love algorithms — and surprisingly, I don’t love coffee! ☕🚫
+~Final-semester~ Computer Science student at TU Darmstadt. I’ve worked as a tutor for the modules _Functional and Object-Oriented Programming Concepts_ and _Computer Architecture_.
 <br>
 If you’d like to check out my progress in practicing algorithms, feel free to drop by here: [LeetCode](https://leetcode.com/GGalya/)
 
-🛠️ I’m currently working on my bachelor's thesis and thinking about improving some of my old projects <br>🌱 Learning how to create adaptive learning courses
+🛠️ I’m currently thinking about improving some of my old projects <br>🌱 Learning how to create adaptive learning courses
 
 ## 🌐 Socials:
 
